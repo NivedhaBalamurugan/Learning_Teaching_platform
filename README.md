@@ -16,12 +16,12 @@ The Online Learning and Teaching Platform is a web-based application aimed at co
 
 ## Features
 
-- User registration and login functionality.
-- Browse and search for courses by category, title, or instructor.
-- View detailed course descriptions, schedules, and fees.
-- Enroll in courses to express interest and take up a free session online.
-- User-friendly dashboard to manage enrolled courses.
-- Contact information for inquiries and further assistance.
+1. User registration and login functionality.
+2. Browse and search for courses by category, title, or instructor.
+3. View detailed course descriptions, schedules, and fees.
+4. Enroll in courses to express interest and take up a free session online.
+5. User-friendly dashboard to manage enrolled courses.
+6. Contact information for inquiries and further assistance.
 
 ## Usage
 
